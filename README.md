@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jones Chokonda | IoT/Robotics | Embedded Systems Innovator
+# 👋 Hi, I'm Jones Chakonda | IoT/Robotics | Embedded Systems Innovator
 
 <div align="center">
   
